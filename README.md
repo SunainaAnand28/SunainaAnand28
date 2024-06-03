@@ -1,34 +1,87 @@
-<h1 align="center">Hi 👋, I'm Sunaina Anand</h1>
-<h3 align="center">A COMPUTER APPLICATION'S STUDENT</h3>
-<img align="center" width="900" src="https://img.freepik.com/premium-photo/computer-circuit-with-blue-yellow-background_863013-26922.jpg?w=1380" alt="">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SunainaAnand28&label=Profile%20views&color=0e75b6&style=flat" alt="SunainaAnand28" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SunainaAnand28" alt="SunainaAnand28" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **New web technologies and honing my skills in programming**
-
-- 💬 Ask me about FRONTEND/HTML/CSS/JavaScript, Python 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sunaina-anand-408187262?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunaina anand" height="30" width="40" /></a>
-  <a href="https://twitter.com/_geekyglam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_geekyglam" height="30" width="40" /></a>
-
-<a href="https://instagram.com/user895naina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="user895naina" height="30" width="40" /></a>
+<hr>
+<p align="center">
+  <img width="100%" height="350" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" alt="">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunainaAnand28&show_icons=true&locale=en&layout=compact" alt="SunainaAnand28" /></p>
+<h1 align="left">Hii👋, I am Sunaina Anand</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SunainaAnand28&show_icons=true&locale=en" alt="SunainaAnand28" /></p>
+<h2 align="left">A Computer Application's Student</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SunainaAnand28&" alt="SunainaAnand28" /></p>
+<div style="box-sizing: border-box; display: flex;">
+  <div style="box-sizing: border-box; flex: ; padding-right: 20px;">
+    <div align="left">
+</div>
 
+
+
+<div align="left">
+</div>
+
+
+
+<img align="left" height="250" src="https://cdnl.iconscout.com/lottie/premium/preview/people-uploading-data-to-cloud-server-5105151-4268893.png?f=webp"  />
+
+
+
+<p align="left">Hello, I’m Sunaina Anand, a self-confident and motivated student currently pursuing my Bachelor's degree in Computer Applications (BCA).<br>      I am passionate about web3 and programming, and I aspire to excel in this dynamic field. My enthusiasm for learning new technologies and creating innovative web solutions drives me to cultivate a deep understanding of various programming skills<br>      Currently, I am honing my skills as a Full Stack Developer Intern at TriwebAPI, where I utilize agile methodologies on Jira to efficiently complete tasks and deliver high-quality projects.<br>      This hands-on experience has not only reinforced my knowledge but also enhanced my ability to work collaboratively in a team setting<br>      My background in BCA provides me with a solid foundation, and I am eager to leverage this knowledge to achieve my goal of becoming a proficient web developer.<br>      I am always open to connecting with like-minded professionals to explore opportunities for learning and growth.<br>      Let’s connect and explore how we can collaborate and innovate together!</p>
+
+
+
+<br clear="both">
+
+
+
+
+  
+
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SunainaAnand28.SunainaAnand28&left_color=steelblue&right_color=cyan&left_text=profile%20views" width="130px" />
+  <p align="left" class="tropy2">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=SunainaAnand28" alt="SunainaAnand28" />
+    </a>
+  </p>
+</div>
+
+
+### Let's Connect:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sunainaanand28" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/_GeekyGlam" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</p>
+
+### Languages and Tools:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
+</p>
+
+### Github Stats:
+
+<p><img align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=SunainaAnand28&show_icons=true&locale=en&layout=compact"
+        alt="SunainaAnand28" /></p>
+
+<p>&nbsp;<img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=SunainaAnand28&show_icons=true&locale=en"
+        alt="SunainaAnand28" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SunainaAnand28&"
+        alt="SunainaAnand28" /></p>
 <!---
 SunainaAnand28/SunainaAnand28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
