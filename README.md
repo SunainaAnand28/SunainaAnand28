@@ -29,8 +29,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SunainaAnand28.SunainaAnand28&left_color=steelblue&right_color=cyan&left_text=profile%20views" width="130px" alt="Profile Views Badge"/>
   <p align="left" class="tropy2">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=SunainaAnand28" alt="GitHub Profile Trophy"/>
-    </a>
+ <img src="https://github-profile-trophy.vercel.app/?username=SunainaAnand28&theme=oldie" alt="GitHub Profile Trophy"/>
+ </a>
   </p>
 </div>
 
