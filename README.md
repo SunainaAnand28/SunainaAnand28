@@ -7,7 +7,7 @@
 
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hii,+I+am+Sunaina+Anand." width="700px" height="90px" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Sunaina+Anand." width="700px" height="90px" alt="Typing SVG">
 </p>
 <h2 align="left">A Computer Application's Student</h2>
 
