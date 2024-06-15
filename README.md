@@ -1,6 +1,6 @@
 <hr>
 <p align="center">
-  <img width="100%" height="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" alt="Web Developers">
+  <img width="800px" height="450" src="https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg0NjM2NDgsIm5iZiI6MTcxODQ2MzM0OCwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE1VDE0NTU0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ5NTQwZGNmMzUwMGJhNTYzMjI0MGViMDdhMTBhOWQ3MTAyNWUyNDYwMzRmNDkyYjk0OGI3NzQ3M2UwYzFiNmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Cnlhc4tYCDecxIWvwjvRYEBB0UWq1Ez11f3X1DyeZLw" alt="Web Developers">
 </p>
 
 <hr>
@@ -29,7 +29,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SunainaAnand28.SunainaAnand28&left_color=steelblue&right_color=cyan&left_text=profile%20views" width="130px" alt="Profile Views Badge"/>
   <p align="left" class="tropy2">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
- <img src="https://github-profile-trophy.vercel.app/?username=SunainaAnand28&theme=oldie" alt="GitHub Profile Trophy"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=SunainaAnand28&theme=flat" alt="GitHub Profile Trophy"/>
  </a>
   </p>
 </div>
