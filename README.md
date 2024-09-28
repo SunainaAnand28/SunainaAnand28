@@ -1,9 +1,4 @@
-
-<p align="center">
-  <img width="600px" height="300" src="https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg0NjM2NDgsIm5iZiI6MTcxODQ2MzM0OCwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE1VDE0NTU0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ5NTQwZGNmMzUwMGJhNTYzMjI0MGViMDdhMTBhOWQ3MTAyNWUyNDYwMzRmNDkyYjk0OGI3NzQ3M2UwYzFiNmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Cnlhc4tYCDecxIWvwjvRYEBB0UWq1Ez11f3X1DyeZLw" alt="Web Developers">
-</p>
-
-## 🚀 About Me
+# 🚀 About Me
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Sunaina+Anand." width="700px" height="90px" alt="Typing SVG">
@@ -20,7 +15,7 @@
 
 <img align="left" height="250" src="https://cdnl.iconscout.com/lottie/premium/preview/people-uploading-data-to-cloud-server-5105151-4268893.png?f=webp" alt="People Uploading Data to Cloud Server"/>
 
-<p align="left">Hello, I’m Sunaina Anand, a self-confident and motivated student currently pursuing my Bachelor's degree in Computer Applications (BCA).<br> I am passionate about web3 and programming, and I aspire to excel in this dynamic field. My enthusiasm for learning new technologies and creating innovative web solutions drives me to cultivate a deep understanding of various programming skills.<br> Currently, I am honing my skills as a Full Stack Developer Intern at TriwebAPI, where I utilize agile methodologies on Jira to efficiently complete tasks and deliver high-quality projects.</p> <br>
+<p align="left">Hello, I’m Sunaina Anand, a self-confident and motivated student currently pursuing my Bachelor's degree in Computer Applications (BCA).<br> I am passionate about web3 and programming, and I aspire to excel in this dynamic field. My enthusiasm for learning new technologies and creating innovative web solutions drives me to cultivate a deep understanding of various programming skills.<br> Currently, I am honing my skills as a Full Stack Developer Intern at SinQlarity, where I utilize agile methodologies on Jira to efficiently complete tasks and deliver high-quality projects.</p> <br>
 <hr>
 <br clear="both">
 
@@ -74,7 +69,7 @@ I’m a passionate singer, I think music has no language barriers. If a tune is 
 <p>If you have any questions or need further assistance, feel free to contact me:</p>
 
 <p>
-    <strong>Sunaina Anand</strong> - Intern at TriWebAPI<br>
+    <strong>Sunaina Anand</strong> - Intern at SinQlarity<br>
     Email: <a href="mailto:sunainaanand28@gmail.com">sunainaanand28@gmail.com</a>
 </p>
 
