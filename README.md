@@ -15,7 +15,7 @@
 
 <img align="left" height="250" src="https://cdnl.iconscout.com/lottie/premium/preview/people-uploading-data-to-cloud-server-5105151-4268893.png?f=webp" alt="People Uploading Data to Cloud Server"/>
 
-<p align="left">Hello, I’m Sunaina Anand, a self-confident and motivated student currently pursuing my Bachelor's degree in Computer Applications (BCA).<br> I am passionate about web3 and programming, and I aspire to excel in this dynamic field. My enthusiasm for learning new technologies and creating innovative web solutions drives me to cultivate a deep understanding of various programming skills.<br> Currently, I am honing my skills as a Full Stack Developer Intern at SinQlarity, where I utilize agile methodologies on Jira to efficiently complete tasks and deliver high-quality projects.</p> <br>
+<p align="left">Hello, I’m Sunaina Anand, a self-confident and motivated student currently pursuing my Bachelor's degree in Computer Applications (BCA).<br> I am passionate about web3 and programming, and I aspire to excel in this dynamic field. My enthusiasm for learning new technologies and creating innovative web solutions drives me to cultivate a deep understanding of various programming skills.<br></p> <br>
 <hr>
 <br clear="both">
 
