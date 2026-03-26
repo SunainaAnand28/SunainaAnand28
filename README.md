@@ -1,9 +1,9 @@
-# 🚀 About Me
+# About Me
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Sunaina+Anand." width="700px" height="90px" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Sunaina." width="500px" height="70px" alt="Typing SVG">
 </p>
-<h2 align="left">A Computer Application's Student</h2>
+<h2 align="left">Web Developer | IT Trainer</h2>
 
 <div style="box-sizing: border-box; display: flex;">
   <div style="box-sizing: border-box; flex: ; padding-right: 20px;">
@@ -13,18 +13,16 @@
 <div align="left">
 </div>
 
-<img align="left" height="250" src="https://cdnl.iconscout.com/lottie/premium/preview/people-uploading-data-to-cloud-server-5105151-4268893.png?f=webp" alt="People Uploading Data to Cloud Server"/>
+<img align="left" height="150" src="https://cdnl.iconscout.com/lottie/premium/preview/people-uploading-data-to-cloud-server-5105151-4268893.png?f=webp" alt="People Uploading Data to Cloud Server"/>
 
-<p align="left">Hello, I’m Sunaina Anand, a self-confident and motivated student currently pursuing my Bachelor's degree in Computer Applications (BCA).<br> I am passionate about web3 and programming, and I aspire to excel in this dynamic field. My enthusiasm for learning new technologies and creating innovative web solutions drives me to cultivate a deep understanding of various programming skills.<br></p> <br>
-<hr>
+<p align="left">Currently working as an IT Trainer at OIPL Okeanos Infotech Pvt. Ltd. 
+I have experience as a Full Stack Developer Intern at SinQlarity, where I contributed to projects in an agile environment. I am involved in training students in programming and web designing.<br></p> 
 <br clear="both">
 
-<div align="left">
+<div align="left" margin-top="5px">
   
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SunainaAnand28.SunainaAnand28&left_color=steelblue&right_color=cyan&left_text=profile%20views" width="130px" alt="Profile Views Badge"/>
-  <p align="left" class="tropy2">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
- <img src="https://github-profile-trophy.vercel.app/?username=SunainaAnand28&theme=flat" alt="GitHub Profile Trophy"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SunainaAnand28.SunainaAnand28&left_color=black&right_color=orange&left_text=profile%20views" height="25" width="150px" alt="Profile Views Badge"/>
+  
  </a>
   </p>
 </div>
@@ -33,10 +31,10 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sunainaanand28" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" width="80" alt="LinkedIn Logo"/>
   </a>
   <a href="https://x.com/_GeekyGlam" target="_blank">
-    <img src="https://camo.githubusercontent.com/90d600582ead821d931b3bb7b7d52c9ff985021b4a8cd6287d3ed94b12ce15f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f582d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d78266c6f676f436f6c6f723d7768697465" widht="65"  height="35" alt="Twitter Logo"/>
+    <img src="https://img.shields.io/static/v1?message=X|Twitter&logo=twitter&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="45" width="80" alt="Twitter Logo"/>
   </a>
 </p>
 
@@ -61,15 +59,12 @@
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="45"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="45"/> </a>
 </p>
 
-## 🎨 Fun Fact
-I’m a passionate singer, I think music has no language barriers. If a tune is great, I’m all in, no matter what language it’s in!
-
 ## 📬 Contact Me
 
 <p>If you have any questions or need further assistance, feel free to contact me:</p>
 
 <p>
-    <strong>Sunaina Anand</strong> - Intern at SinQlarity<br>
+    <strong>Sunaina Anand</strong> - IT Trainer<br>
     Email: <a href="mailto:sunainaanand28@gmail.com">sunainaanand28@gmail.com</a>
 </p>
 
